@@ -1,0 +1,16 @@
+{
+  "name": "react-native-flipper-network-mocker",
+  "version": "0.0.1",
+  "description": "Flipper client module for react native ",
+  "main": "src/index",
+  "repository": "https://github.com/nilavanraj/react-native-flipper-network-mocker",
+  "author": "Nilavan Raj <nilavanraj1@gmail.com> (https://github.com/nilavanraj)",
+  "bugs": {
+    "url": "https://github.com/nilavanraj/react-native-flipper-network-mocker/issues"
+  },
+  "homepage": "https://github.com/nilavanraj/react-native-flipper-network-mocker#readme",
+  "license": "UNLICENSED",
+  "peerDependencies": {
+    "react-native-flipper": "^0.212.0"
+  }
+}
