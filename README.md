@@ -11,9 +11,9 @@ Rn Networks is a Flipper plugin for React Native, providing features for network
 ## Installation
 1. Install the client library:
    ```bash
-   npm install react-native-flipper-network-mocker --save-dev
+     npm install react-native-flipper-network-mocker react-native-flipper --save-dev
 
-Install the Rn Networks plugin from the Flipper marketplace.
+Install the Rn Networks plugin from the Flipper marketplace (search for 'rn-network-mock').
 
 ## Usage
 Import dynamically based on development mode in the React Native index file.
